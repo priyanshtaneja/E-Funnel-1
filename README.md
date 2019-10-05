@@ -12,3 +12,5 @@ Easy to use UI
 Idea:
 
 In the age of rapidly increasing fuel demands, declining environmental sustainability is a great issue. Therefore, reduction of carbon footprint takes higher priority. The project is aimed at reducing the environmental footprint of petroleum by managing the fuel demands of heavy machineries. This has a long range of applications, starting from automobiles to generators and DG sets.
+
+Any suggestions to improve the project are welcome.
